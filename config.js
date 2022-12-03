@@ -61,19 +61,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://outlook.office365.com/mail/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Portal',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://https://asmssaeduau.sharepoint.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Daymap',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://https://daymap.asms.sa.edu.au/daymap/timetable/timetable.aspx',
 		},
 		{
 			id: '5',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
