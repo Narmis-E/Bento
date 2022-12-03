@@ -73,17 +73,17 @@ const CONFIG = {
 			id: '4',
 			name: 'Daymap',
 			icon: 'calendar',
-			link: 'https://daymap.asms.sa.edu.au/daymap/timetable/timetable.aspx',
+			link: 'https://https://daymap.asms.sa.edu.au/daymap/timetable/timetable.aspx',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			icon: 'drive',
+			link: 'https://drive.google.com/drive/u/0/my-drive',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Cinny',
+					link: 'https://app.cinny.in/',
 				},
 				{
 					name: 'Dribbble',
