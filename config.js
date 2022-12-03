@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Daymap',
 			icon: 'calendar',
-			link: 'https://https://daymap.asms.sa.edu.au/daymap/timetable/timetable.aspx',
+			link: 'https://daymap.asms.sa.edu.au/daymap/timetable/timetable.aspx',
 		},
 		{
 			id: '5',
